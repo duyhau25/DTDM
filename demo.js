@@ -1,1 +1,4 @@
 print("hello word")
+
+
+console.log("Hello mn");
