@@ -3,5 +3,5 @@ print("hello word")
 
 console.log("Hello mn");
 huy
-ce
+hello huy đã ở đây
 kiên đã ở đây
