@@ -39,7 +39,6 @@ kiên đã ở đây
           <i class="fab fa-github"></i>
         </a>
       </div>
-      <button>Contact me</button>
     </div>
   </body>
 </html>
