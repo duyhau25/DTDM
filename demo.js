@@ -47,10 +47,10 @@ Hiến đã ở đây
     <p>Thông tin liên hệ khác:201050362@student.humg.edu.vn</p>
     <ul>
         <li>Email: ngockienno01@gmail.com</li>
-            <h2>Nguyễn Ngọc Kiên</h2>
-    <p>Tôi là sinh viên tên Nguyễn Ngọc Kiên, hiện đang theo học tại Trường Đại học Mỏ.</p>
-    <p>Số điện thoại: 0972562320</p>
-    <p>Thông tin liên hệ khác:201050362@student.humg.edu.vn</p>
+            <h2>Bùi Duy Hậu</h2>
+    <p>Tôi là sinh viên tên Bùi Duy Hậu, hiện đang theo học tại Trường Đại học Mỏ.</p>
+    <p>Số điện thoại: 0346455549</p>
+    <p>Thông tin liên hệ khác:2021050244@student.humg.edu.vn</p>
     <ul>
         <li>Email: ngockienno01@gmail.com</li>
         <li>Địa chỉ: Đại học Mỏ, Thành phố Hanoi, Việt Nam</li>
