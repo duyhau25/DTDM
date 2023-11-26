@@ -55,5 +55,10 @@ Hiến đã ở đây
         <li>Email: ngockienno01@gmail.com</li>
         <li>Địa chỉ: Đại học Mỏ, Thành phố Hanoi, Việt Nam</li>
     </ul>
+    <h2>Vũ Quang Huy</h2>
+    <p>Tôi là sinh viên trường Đai Học Mỏ - Địa chất.</p>
+    <p>Lớp: DCCTKH65A</p>
+    <p>Số điện thoại : 0333149409</p>
+    <p>Email : quanghuyvu209@gmail.com</p>
   </body>
 </html>
